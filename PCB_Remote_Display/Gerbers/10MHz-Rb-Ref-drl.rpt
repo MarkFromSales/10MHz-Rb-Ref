@@ -1,0 +1,29 @@
+Drill report for C:\Users\markd\OneDrive\Documents\Projects-Github\10MHz-Rb-Ref\PCB_Remote_Display\10MHz-Rb-Ref.kicad_pcb
+Created on 3/19/2019 3:18:53 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '10MHz-Rb-Ref-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (7 holes)
+    T2  0.75mm  0.030"  (3 holes)
+    T3  0.80mm  0.031"  (30 holes)
+    T4  0.91mm  0.036"  (8 holes)
+    T5  1.00mm  0.039"  (24 holes)
+    T6  1.30mm  0.051"  (12 holes)
+    T7  1.70mm  0.067"  (12 holes)
+    T8  4.30mm  0.169"  (4 holes)
+
+    Total plated holes count 100
+
+
+Drill file '10MHz-Rb-Ref-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
